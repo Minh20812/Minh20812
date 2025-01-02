@@ -2,7 +2,6 @@
 
 **`Storyteller (Developer/GameMaker)`**
 
-
 I'm a **Full-Stack Developer** passionate about creating engaging web applications and developing some of the most exciting games.  
 
 🌐 I specialize in building responsive, user-friendly web applications using modern technologies.  
@@ -30,6 +29,8 @@ I'm a **Full-Stack Developer** passionate about creating engaging web applicatio
 <!-- ![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minh20812&show_icons=true&theme=gruvbox) -->
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#### ✉ Contact: ngquangminh2128@gmail.com
 
 #
 <!--
