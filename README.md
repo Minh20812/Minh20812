@@ -1,6 +1,6 @@
 # ⌛ Nguyen Quang Minh
 
-**`Storyteller (Developer/GameMaker)`**
+**`Storyteller (Frontend Developer)`**
 
 I'm a **Full-Stack Developer** passionate about creating engaging web applications and developing some of the most exciting games.  
 
